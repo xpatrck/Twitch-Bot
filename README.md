@@ -5,13 +5,11 @@
  | 7tvsearch |  | Search an emote on the 7TV website | User 
  | accage |  |Check Accountage of you or other users | User  
  | bttvsearch |  | Search an emote on the BetterTTV website | User 
- | cock |  | Your cock size | User 
  | roll |  | Coin Flip | User 
  | color |  | Check Color of you or other users | User 
  | ffzsearch |  | Search an emote on the FFZ Website | User 
  | followage |  | Check your Followage | User 
  | massping |  | pings everyone in the chat :tf: | Mod
- | pick |  | Yes, No or Maybe | User 
  | ping |  | Just a Ping command | User 
  | rcolor |  | Gives you a random Hex-Code | User 
  | echo |  | repeat your message | Mod 
@@ -20,7 +18,7 @@
  | subemotes |  | Shows you all subemote of a streamer | user  
  | uptime |  | Shows the uptime of the bot | User 
  | hello |  | Greets you  | User
- | iq |  |  your real iq | User
+ | iq |  |  shows your real iq | User
  | swag |  | Size of your swag | User
  | vanish |  | Vanishes you | User
  | pyramid |  | Pyramid (max size 40) | User
