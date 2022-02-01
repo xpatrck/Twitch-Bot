@@ -10,7 +10,7 @@
  | color |  | Check Color of you or other users | User 
  | ffzsearch |  | Search an emote on the FFZ Website | User 
  | followage |  | Check your Followage | User 
- | massping |  | pings everyone in the chat :tf: | 
+ | massping |  | pings everyone in the chat :tf: | Mod
  | pick |  | Yes, No or Maybe | User 
  | ping |  | Just a Ping command | User 
  | rcolor |  | Gives you a random Hex-Code | User 
