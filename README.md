@@ -1,3 +1,4 @@
 # Twitch-Bot
 
-test test2
+# Commands
+test
