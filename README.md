@@ -52,5 +52,5 @@
  | bruh |  | Bruh | user
  | broadcaster |  | Pings broadcaster | user
  | allemotes |  | Types every third party thing emotes and sub emotes | user
- | setgame |  | Change game | Developer
- | settitle |  | Change title | Developer
+ | setgame |  | Change game | Mod
+ | settitle |  | Change title | Mod
