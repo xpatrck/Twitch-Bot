@@ -1,2 +1,2 @@
 # Commands
-test
+test | test2
