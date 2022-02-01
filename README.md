@@ -52,3 +52,5 @@
  | allemotes |  | Types every third party thing emotes and sub emotes | user
  | setgame |  | Change game | Mod
  | settitle |  | Change title | Mod
+
+Prefix: %
