@@ -23,6 +23,7 @@
  | iq |  |  shows your real iq | User
  | isaffiliate |  | Checks if user is affiliate | User
  | isbanned |  | Checks if user is banned | User
+ | isbot |  | Checks if user is a bot | User
  | ispartner |  | Checks if user is partner | User
  | logs |  | Link to sites with logs | User
  | love |  | Love between you and someone else <3 | User
