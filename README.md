@@ -1,5 +1,5 @@
 ## Commands
-        
+        Prefix: '
 | Command  | Alias  | Description  | min. Permission |
 |:-----------:|:-----------:|:------------:|:------:|
  | 7tvsearch |  | Search an emote on the 7TV website | User 
@@ -12,7 +12,6 @@
  | massping |  | pings everyone in the chat :tf: | Mod
  | ping |  | Just a Ping command | User 
  | rcolor |  | Gives you a random Hex-Code | User 
- | echo |  | repeat your message | Mod 
  | spam |  | spams something into the chat (max size 80) | User 
  | subage | sa | Check your Subage | User 
  | subemotes |  | Shows you all subemote of a streamer | user  
@@ -52,5 +51,3 @@
  | allemotes |  | Types every third party thing emotes and sub emotes | user
  | setgame |  | Change game | Mod
  | settitle |  | Change title | Mod
-
-Prefix: %
