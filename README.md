@@ -8,8 +8,6 @@
  | allemotes |  | Types every third party thing emotes and sub emotes | user
  | avatar |  | Link to picture with avatar of selected user | User
  | brb |  | Counts time when you are going to be right back | User
- | broadcaster |  | Pings broadcaster | user
- | bruh |  | Bruh | user
  | bttvsearch |  | Search an emote on the BetterTTV website | User 
  | color |  | Check Color of you or other users | User 
  | emotes |  | Link to site with emotes of the channel | User
