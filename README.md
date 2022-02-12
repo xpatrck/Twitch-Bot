@@ -1,5 +1,5 @@
 ## Commands
-        Prefix: '
+        Prefix: %
 | Command  | Alias  | Description  | min. Permission |
 |:-----------:|:-----------:|:------------:|:------:|
  | 7tvsearch |  | Search an emote on the 7TV website | User 
